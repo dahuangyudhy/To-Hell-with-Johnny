@@ -1,1 +1,1 @@
-This game imitates the popular small game "To Hell with Johnny". It was written back in 2009. Functionalities such as save and load, background music, high scores, game difficulty options are implemented.
+This game imitates a popular small game "To Hell with Johnny". It was written back in 2009. Functionalities such as save and load, background music, high scores, game difficulty options are implemented.
